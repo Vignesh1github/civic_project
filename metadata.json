@@ -1,0 +1,9 @@
+{
+  "name": "CivicPulse AI",
+  "description": "Intelligent Civic Grievance Management Platform leveraging AI for automated categorization and priority handling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
